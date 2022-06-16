@@ -68,7 +68,7 @@ input {
 
 /*desktop view*/
 
-@media only screen and (max-width: 1440px){ 
+@media only screen and (min-width: 1440px){ 
 body {
   background-image: url('/designs/bg-intro-desktop.png');
   display: flex;
